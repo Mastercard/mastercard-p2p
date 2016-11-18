@@ -1,0 +1,425 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 32
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "tests": 32
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_8001_RetrieveAccountInfoWithEligibleAccountInformation"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_8001_RetrieveAccountInfoWithEligibleAccountInformation",
+    "status": "pass",
+    "time": 0.56388998031616,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_8002_RetrieveAccountInfoWithIneligibleAccountInformation"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_8002_RetrieveAccountInfoWithIneligibleAccountInformation",
+    "status": "pass",
+    "time": 0.35722494125366,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_10001_RetrieveAccountStatusWithNonTokenizedRequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_10001_RetrieveAccountStatusWithNonTokenizedRequest",
+    "status": "pass",
+    "time": 0.349289894104,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_19001_RegisterConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_19001_RegisterConsumer",
+    "status": "pass",
+    "time": 0.3082640171051,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_20001_RetrieveConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_20001_RetrieveConsumer",
+    "status": "pass",
+    "time": 0.29935383796692,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_20040_AddConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_20040_AddConsumerContactId",
+    "status": "pass",
+    "time": 0.35825490951538,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_21001_SearchConsumer_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_21001_SearchConsumer_ConsumerReference",
+    "status": "pass",
+    "time": 0.28698801994324,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_21002_SearchConsumer_Contact_ID_URI"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_21002_SearchConsumer_Contact_ID_URI",
+    "status": "pass",
+    "time": 0.33433604240417,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_22001_SearchConsumers_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_22001_SearchConsumers_ConsumerReference",
+    "status": "pass",
+    "time": 0.35268998146057,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_22002_SearchConsumers_Contact_ID_URI"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_22002_SearchConsumers_Contact_ID_URI",
+    "status": "pass",
+    "time": 0.33190298080444,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_25002_AddConsumerAccountForDisb"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_25002_AddConsumerAccountForDisb",
+    "status": "pass",
+    "time": 0.32083296775818,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_30001_AddConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_30001_AddConsumerAccount",
+    "status": "pass",
+    "time": 0.40391397476196,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_30002_RetrieveAccountStatusWithTokenizedRequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_30002_RetrieveAccountStatusWithTokenizedRequest",
+    "status": "pass",
+    "time": 0.39432096481323,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_31001_RetrieveConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_31001_RetrieveConsumerAccount",
+    "status": "pass",
+    "time": 0.30538392066956,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32001_RetrieveConsumerAccounts"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32001_RetrieveConsumerAccounts",
+    "status": "pass",
+    "time": 0.2881190776825,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32141_CreatePayment_NON_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32141_CreatePayment_NON_TOKENIZED",
+    "status": "pass",
+    "time": 0.54177808761597,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32142_CreatePayment_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32142_CreatePayment_TOKENIZED",
+    "status": "pass",
+    "time": 0.61321496963501,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32151_GetTransferById_NON_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32151_GetTransferById_NON_TOKENIZED",
+    "status": "pass",
+    "time": 2.3629529476166,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32152_GetTransferById_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32152_GetTransferById_TOKENIZED",
+    "status": "pass",
+    "time": 0.38988494873047,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32161_GetTransferByRef_NON_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32161_GetTransferByRef_NON_TOKENIZED",
+    "status": "pass",
+    "time": 0.30040192604065,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32162_GetTransferByRef_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_32162_GetTransferByRef_TOKENIZED",
+    "status": "pass",
+    "time": 0.28425407409668,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_33003_SanctionScreening_NonTokenized"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_33003_SanctionScreening_NonTokenized",
+    "status": "pass",
+    "time": 0.3187849521637,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId",
+    "status": "pass",
+    "time": 0.28652405738831,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference",
+    "status": "pass",
+    "time": 0.2871310710907,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_41001_RetrieveConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_41001_RetrieveConsumerContactId",
+    "status": "pass",
+    "time": 0.32391810417175,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_42001_RetrieveConsumerContacts"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_42001_RetrieveConsumerContacts",
+    "status": "pass",
+    "time": 0.26058602333069,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50033_UpdateConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50033_UpdateConsumerAccount",
+    "status": "pass",
+    "time": 0.29096102714539,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50043_UpdateConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50043_UpdateConsumerContactId",
+    "status": "pass",
+    "time": 0.28484797477722,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50134_DeleteConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50134_DeleteConsumerAccount",
+    "status": "pass",
+    "time": 0.3667459487915,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50144_DeleteConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_50144_DeleteConsumerContactId",
+    "status": "pass",
+    "time": 0.31125092506409,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_60023_UpdateConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_60023_UpdateConsumer",
+    "status": "pass",
+    "time": 0.30720996856689,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_60024_DeleteConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2p\\AllTest",
+    "test": "MasterCard\\Api\\P2p\\AllTest::test_60024_DeleteConsumer",
+    "status": "pass",
+    "time": 0.28228998184204,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

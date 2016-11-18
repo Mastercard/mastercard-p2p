@@ -1,0 +1,34 @@
+MasterCard\Api\P2p\All
+ [x] 8001 RetrieveAccountInfoWithEligibleAccountInformation
+ [x] 8002 RetrieveAccountInfoWithIneligibleAccountInformation
+ [x] 10001 RetrieveAccountStatusWithNonTokenizedRequest
+ [x] 19001 RegisterConsumer
+ [x] 20001 RetrieveConsumer
+ [x] 20040 AddConsumerContactId
+ [x] 21001 SearchConsumer ConsumerReference
+ [x] 21002 SearchConsumer Contact ID URI
+ [x] 22001 SearchConsumers ConsumerReference
+ [x] 22002 SearchConsumers Contact ID URI
+ [x] 25002 AddConsumerAccountForDisb
+ [x] 30001 AddConsumerAccount
+ [x] 30002 RetrieveAccountStatusWithTokenizedRequest
+ [x] 31001 RetrieveConsumerAccount
+ [x] 32001 RetrieveConsumerAccounts
+ [x] 32141 CreatePayment NON TOKENIZED
+ [x] 32142 CreatePayment TOKENIZED
+ [x] 32151 GetTransferById NON TOKENIZED
+ [x] 32152 GetTransferById TOKENIZED
+ [x] 32161 GetTransferByRef NON TOKENIZED
+ [x] 32162 GetTransferByRef TOKENIZED
+ [x] 33003 SanctionScreening NonTokenized
+ [x] 33004 SanctionScreeningBy Tokenized ConsumerId
+ [x] 33005 SanctionScreening Tokenized ConsumerReference
+ [x] 41001 RetrieveConsumerContactId
+ [x] 42001 RetrieveConsumerContacts
+ [x] 50033 UpdateConsumerAccount
+ [x] 50043 UpdateConsumerContactId
+ [x] 50134 DeleteConsumerAccount
+ [x] 50144 DeleteConsumerContactId
+ [x] 60023 UpdateConsumer
+ [x] 60024 DeleteConsumer
+
